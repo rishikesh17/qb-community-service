@@ -19,3 +19,6 @@ Under the function
  PlayerData.metadata["communityservice"] = PlayerData.metadata["communityservice"] ~= nil and PlayerData.metadata["communityservice"] or 0
 
 ```
+
+Disclaimer
+added for personal use, not intended to distribute, credits to original creator
